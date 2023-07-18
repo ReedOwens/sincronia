@@ -1,5 +1,5 @@
 {
-  "name": "@sincronia/prettier-plugin",
+  "name": "@uxstorm_sincronia/prettier-plugin",
   "version": "0.4.2-alpha.3",
   "description": "Prettier plugin for Sincronia",
   "main": "./dist/index.js",
@@ -9,7 +9,7 @@
   "author": "Multiple",
   "license": "GPL-3.0",
   "devDependencies": {
-    "@sincronia/types": "^0.4.2-alpha.3",
+    "@uxstorm_sincronia/types": "^0.4.2-alpha.3",
     "@types/prettier": "^1.18.0",
     "typescript": "^3.5.3"
   },
@@ -21,10 +21,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuvolo/sincronia.git"
+    "url": "git+https://github.com/ReedOwens/sincronia.git"
   },
   "bugs": {
-    "url": "https://github.com/nuvolo/sincronia/issues"
+    "url": "https://github.com/ReedOwens/sincronia/issues"
   },
-  "gitHead": "67b694054cf072be150b9bd4dc3d1b01f8e24ed9"
+  "gitHead": ""
 }

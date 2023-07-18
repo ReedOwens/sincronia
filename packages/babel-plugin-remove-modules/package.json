@@ -1,5 +1,5 @@
 {
-  "name": "@sincronia/babel-plugin-remove-modules",
+  "name": "@uxstorm_sincronia/babel-plugin-remove-modules",
   "version": "0.4.2-alpha.3",
   "description": "Babel plugin that removes imports and exports from code",
   "main": "./dist/index.js",
@@ -8,24 +8,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuvolo/sincronia.git"
+    "url": "git+https://github.com/ReedOwens/sincronia.git"
   },
   "author": "",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/nuvolo/sincronia/issues"
+    "url": "https://github.com/ReedOwens/sincronia/issues"
   },
-  "homepage": "https://github.com/nuvolo/sincronia#readme",
+  "homepage": "https://github.com/ReedOwens/sincronia#readme",
   "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/types": "^7.5.5"
   },
   "devDependencies": {
-    "@sincronia/types": "^0.4.2-alpha.3",
+    "@uxstorm_sincronia/types": "^0.4.2-alpha.3",
     "@types/babel__core": "^7.1.2"
   },
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "67b694054cf072be150b9bd4dc3d1b01f8e24ed9"
+  "gitHead": ""
 }
